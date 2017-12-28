@@ -1,2 +1,3 @@
 Git is a tool,for your work.
 it can save your state every time;
+测试git add文件之后,checkout操作是否会撤销操作!
